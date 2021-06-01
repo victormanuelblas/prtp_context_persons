@@ -2,7 +2,7 @@ import './App.css';
 //components
 import PersonsList from './components/PersonsList'
 import PersonProf from './components/PersonProf';
-//context
+//state
 import PersonState from './context/Person/PersonState';
 //bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css';

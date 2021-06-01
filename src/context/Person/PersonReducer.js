@@ -1,4 +1,4 @@
-import { PRSN_GET_LIST,PRSN_GET_PROF } from '../types'
+import { PRSN_GET_LIST, PRSN_GET_PROF } from '../types'
 
 export default (state, action) => {
     const {type, payload} = action;
